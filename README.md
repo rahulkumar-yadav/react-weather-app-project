@@ -30,13 +30,13 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/rahulkumar-yadav/react-form-app-project.git
+git clone hhttps://github.com/rahulkumar-yadav/react-weather-app-project.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd react-form-app-project
+cd react-weather-app-project
 ```
 
 3. Install dependencies:
